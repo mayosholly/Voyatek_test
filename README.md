@@ -77,3 +77,4 @@ php artisan serve
 - Modify `.env` file with appropriate database credentials before running migrations.
 - API responses are JSON formatted as per RESTful principles.
 - Ensure authentication and authorization mechanisms are implemented as needed for production use.
+- the value of the token middleware is vg@123
