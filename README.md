@@ -46,7 +46,6 @@ php artisan serve
 - `GET /api/blogs/{id}`
 - Retrieves details of a specific blog.
 
-- *Additional Blog Endpoints as per your implementation*
 
 ### Posts
 
@@ -58,7 +57,7 @@ php artisan serve
 - `POST /api/blogs/{blog_id}/posts`
 - Creates a new post under a specific blog.
 
-- *Additional Post Endpoints as per your implementation*
+
 
 ### Interactions
 
@@ -70,7 +69,7 @@ php artisan serve
 - `POST /api/posts/{post_id}/comment`
 - Adds a comment to a specific post.
 
-- *Additional Interaction Endpoints as per your implementation*
+
 
 ## Notes
 - Ensure you have PHP and Composer installed on your system.
